@@ -1,0 +1,1 @@
+export const PUT_TITLE ='PUT_TITLE';
